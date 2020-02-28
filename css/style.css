@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
 .container{
     width: 100%;
     height: 50px;
@@ -36,4 +37,64 @@
 .menu_topo a{
     text-decoration: none;
     color: black;
+=======
+
+.container-footer{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.container-footer-box{
+    width: 1366px;
+    height: 100%;
+
+}
+
+.container-footer-services{
+    width: 60%;
+    height: 150px;
+    margin: 20px auto;
+}
+
+.titulo-services{
+    color: skyblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 28px;
+}
+
+.texto-services{
+    font-size: 20px;
+    text-align: center;
+    margin: 15px auto;
+}
+
+.container-boxes{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container-footer-boxes{
+    width: 19%;
+    height: 300px;
+}
+
+.image-redondo{
+    width: 40%;
+    margin-left: 70px;
+}
+
+.services{
+    font-size: 28px;
+    text-align: center;
+    color: skyblue;
+}
+
+.box-service{
+    text-align: center;
+>>>>>>> cdc18dd689539dfea7454960f7511de3d3d5c198
 }
